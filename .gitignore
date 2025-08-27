@@ -1,0 +1,12 @@
+# FiveM / Lua / Node.js Ignore
+*.log
+*.db
+*.sqlite
+*.sql
+cache/
+node_modules/
+package-lock.json
+.env
+*.pdb
+.DS_Store
+Thumbs.db
